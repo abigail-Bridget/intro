@@ -1,0 +1,22 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P///wAAAAAfmTMzDwAAAB+ZMzMPAAAAn5kz8wAAAACfmTMzDwAAAD8zMzMPAAAA8P///wAAAADwMzPzAAAAAAD//w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "among us pink"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P///wAAAAAfmYiIDwAAAB+ZiIgPAAAAn5mI+AAAAACfmYiIDwAAAI+IiIgPAAAA8P///wAAAADwiIj4AAAAAAD//w8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "among us blauw"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAP8PAPAPAAAAd/f///iARAD3d3ePiE9NAHd3d/+E+P8A/3d3v9Goo//w93f43zQ1//B3f0jdpKMP8Hd/SN2kow/w93f43zQ1//93d7/RqKP/d3d3/4T4/wD3d3ePiE9NAHf3///4gEQA/w8A8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "cmgt player"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
