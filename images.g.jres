@@ -14,6 +14,36 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "cmgt player"
     },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAP8PAPAPAAAAd/f///iARAB3d3ePiE9NAHd3d/+P+P8A/3d3j4/4Ov/wd3f/iPij//B3d4+I+DoP8Hd3j4j4ow/wd3f/iPg6//93d4+P+KP/d3d3/4j4/wB3d3ePiE9NAHf3///4gEQA/w8A8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAA8P8PAAAAAPB///gA8A8Af3f/iP////B3d4/Urar/8Hd3j/+tqv/w93ePG636D/B3f//U2O0P/3d//4jY7Q93d/f/iIj+/3d39/+I+P//d//3/4gI8A//8P//jw8AAAAAAPD/AAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAA//AA8P8AAAB3////jw8AAHd39/+ICPAPd3f3/4iI////d/f/iIj+//B3d/+I2O0P8Hd//9TY7Q/w93ePG636D/B3d4//rar/8Hd3j9Stqv8Af3f/iP///wDwf//4APAPAADw/w8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
+    "image7": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAD/////DwAAAL9ES0T0/wAAT0tEREv7DwBPREREREQPAE8UEUEURA8ATxREQRREDwBPFERBFEQPAE8UREEURA8ATxREERFEDwBPRERERLQPAE9LRERL+w8Av0RLRPT/AAD//////wAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage2"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAD/////DwAAAL+Ii4j4/wAAj4uIiIv7DwCPGIiIEYgPAI8YiIiIgQ8AjxiIgYiBDwCPGIiBiIEPAI8YGBGIgQ8AjxgYGIiBDwCPGIEYEbgPAL+LiIiL+w8Av4iLiPj/AAD//////wAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage3"
+    },
+    "image9": {
+        "data": "hwQYABgAAACIiAgAAAAAAAAAiIiIiIgAAAAAAACAiIiIiIiIAAAAAICIiIgAiIiICAAAAIiIiAgAgIiIiIgAiIiIiAAAAICIiIiIiIiIAAAAAACIiIiIiIgIAAAAAAAAgIiIiIgAAAAAAACAiIiIiIgIAAAAAACIiIiIiIiICAAAAIiIiIgAgIiIiAgAiIiIiAAAAICIiIiAiIiICAAAAACIiIiIiIgIAAAAAAAAiIiIiAgAAAAAAAAAgIiICAAAAAAAAAAAgIiICAAAAAAAAAAAgIiICAAAAAAAAAAAgIiICAAAAAAAAAAAgIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIg=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage4"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
